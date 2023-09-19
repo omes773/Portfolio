@@ -1,0 +1,23 @@
+h1 {
+    background-color: aquamarine;
+    text-align: center;
+    color: darkblue;
+}
+
+ul {
+   color: aquamarine;
+   list-style: none;
+   display: flex;
+   flex-direction: center;
+   justify-content: space-evenly;
+   flex-wrap: wrap; 
+}
+
+h2 {
+    text-decoration: underline;
+    color: darkblue;
+}
+
+h5, h6 {
+    border: ;
+}
