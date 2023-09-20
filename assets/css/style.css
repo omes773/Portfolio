@@ -1,5 +1,8 @@
+* {
+    background-color: orange;
+}
+
 h1 {
-    background-color: aquamarine;
     text-align: center;
     color: darkblue;
 }
@@ -43,6 +46,10 @@ section {
     width: 25%;
     border-radius: 50%;
 
+}
+.led, .calculator, .pastel-puzzels, .run-buddy, .contact-me {
+    border-bottom: solid 5px red;
+    border-top: solid 5px red;
 }
 
 
