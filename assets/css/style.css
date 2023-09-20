@@ -1,5 +1,6 @@
 * {
-    background-color: ;
+    box-sizing: border-box
+    
 }
 
 h1 {
@@ -42,7 +43,11 @@ h2 {
 }
 
 .meeting-picture {
-    width: 50%;
+    width: 30%;
+}
+
+.fire-picture {
+    width: 10%;
 }
 
 
@@ -69,4 +74,12 @@ h2 {
     .header-profile {
         flex-direction: row;
     }
+}
+
+@media screen (min-width: 560px) {
+    body,
+  nav {
+    flex-direction: column;
+  }
+    
 }
