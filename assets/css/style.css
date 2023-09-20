@@ -1,10 +1,10 @@
 * {
-    background-color: orange;
+    background-color: ;
 }
 
 h1 {
     text-align: center;
-    color: darkblue;
+    color: ;
 }
 
 ul {
@@ -21,9 +21,6 @@ h2 {
     color: darkblue;
 }
 
-h5, h6 {
-    border: ;
-}
 
 section {
     border: aquamarine;
@@ -43,18 +40,18 @@ section {
 }
 
 .profile-picture {
-    width: 25%;
+    width: 10%;
     border-radius: 50%;
 
 }
-.led, .calculator, .pastel-puzzels, .run-buddy, .contact-me {
+.led, .calculator, #Resume, .run-buddy, #Contact-Me {
     border-bottom: solid 5px red;
     border-top: solid 5px red;
+
 }
 
 
 .jumbotron {
-    margin: 0 10%;
     border: solid 3px red;
     width: 100%;
     height: 300px;
